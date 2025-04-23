@@ -1,0 +1,50 @@
+_repo: The-illustrated-Tarzan-book-no-1-b-Picturized-from-the-novel-Tarzan-of-the-apes_75817
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Foster, Harold R. (Harold Rudolf)
+    aliases:
+    - Foster, Hal
+    - Foster, H. (Harold)
+    birthdate: 1892
+    deathdate: 1982
+    gutenberg_agent_id: '58150'
+    url: http://www.gutenberg.org/2009/agents/58150
+    wikipedia: https://en.wikipedia.org/wiki/Hal_Foster
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75817'
+language: en
+pgterms:marc904: https://archive.org/details/the-illustrated-tarzan-book-01-1929-grosset-dunlap-c-2c-comics-castle/mode/2up
+pgterms:marc905: 20250205032337burroughs
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aTarzana, CA :$bEdgar Rice Burroughs, Inc, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tarzan (Fictitious character) -- Fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'British -- Africa -- Fiction'
+- !lcsh 'Wild men -- Fiction'
+- !lcsh 'Comics (Graphic works)'
+- !lcc 'PS'
+- GITenberg
+title: 'The illustrated Tarzan book no. 1 : $b Picturized from the novel Tarzan of
+  the apes'
+url: http://www.gutenberg.org/ebooks/75817
