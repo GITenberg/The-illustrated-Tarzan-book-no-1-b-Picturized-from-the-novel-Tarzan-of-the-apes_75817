@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '58150'
     url: http://www.gutenberg.org/2009/agents/58150
     wikipedia: https://en.wikipedia.org/wiki/Hal_Foster
+covers:
+- cover_type: archival
+  image_path: 75817-h/images/cover.jpg
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75817#The-illustrated-Tarzan-book-no-1-b-Picturized-from-the-novel-Tarzan-of-the-apes
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
